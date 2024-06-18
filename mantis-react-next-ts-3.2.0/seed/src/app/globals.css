@@ -1,0 +1,5 @@
+@import 'simplebar-react/dist/simplebar.min.css';
+
+.css-13ddxbb > * + * {
+  margin: 0 !important;
+}
